@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9b13dff7-54f3-4fcf-a52d-ac33a314fb17" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JTM.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JTM.ipr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JTM.iws" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/presentations/01_About.odp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/presentations/02_Intro.odp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/presentations/03_Syntax.odp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/presentations/04_OOP.odp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/presentations/05_Inheritance.odp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/presentations/06_Interfaces.odp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/presentations/07_UML.odp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/presentations/08_Exceptions.odp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/presentations/09_Collections.odp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/presentations/10_IO.odp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/presentations/11_Threads.odp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/presentations/12_Net.odp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/presentations/13_JDBC.odp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/presentations/14_Junit.odp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/presentations/15_GUI.odp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/presentations/16_Android.odp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/presentations/17_Web.odp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/presentations/18_VC.odp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/presentations/19_PM.odp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/presentations/CourseMap.ods" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/presentations/JTM.otp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/presentations/e05_XML.odp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/presentations/e06_AdvancedFeatures.odp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/presentations/e08_JPA.odp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/presentations/e09_Patterns.odp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/presentations/e10_Log4J.odp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/presentations/e11_Java8.odp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/presentations/e12_JNI.odp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/presentations/e13_JSP.odp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/presentations/e14_Build.odp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/JTM.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/geckodriver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/c/jnifunctions.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/activity01/ConfigurationTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/activity01/TODO.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/activity02/ConfigAndHelloTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/activity02/Hello.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/activity02/TODO.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/activity03/Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/activity03/ArrayTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/activity03/BlackKnight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/activity03/BlackKnightTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/activity03/RandomPerson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/activity03/RandomPersonTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/activity03/TODO.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/activity04/Road.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/activity04/TODO.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/activity04/TrafficManagementSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/activity04/TrafficManagementTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/activity04/Transport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/activity05/EncapsulationTests1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/activity05/TODO.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/activity06/Alien.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/activity06/Humanoid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/activity06/InterfaceTests1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/activity06/TODO.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/activity07/AnimalTests1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/activity07/TODO.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/activity08/SimpleCalc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/activity08/SimpleCalcTests1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/activity08/TODO.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/activity09/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/activity09/Orders.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/activity09/OrdersTests1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/activity09/TODO.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/activity10/StreamEditor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/activity10/StreamEditorTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/activity10/TODO.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/activity11/Activity11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/activity11/Activity11.uxf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/activity11/ArrayFiller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/activity11/ArrayFillerManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/activity11/ArrayFillerManagerTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/activity11/TODO.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/activity12/ChatServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/activity12/ChatServerTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/activity12/TODO.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/activity13/DatabaseTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/activity13/TODO.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/activity13/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/activity13/TeacherManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/activity13/database.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/activity14/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/activity14/StudentManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/activity14/TODO.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/activity15/ColorSlider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/activity15/ColorSliderGUITest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/activity15/ColorSliderTestSuite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/activity15/TODO.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/activity17/JettyApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/activity17/JettyApplicationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/activity17/JettyController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/activity17/SeleniumIDEtestCase.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/activity17/SeleniumWebDriverTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/activity17/TODO.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/activity18/GitMergeTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/activity18/TODO.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/activity18/catb1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/activity18/catb2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/activity18/catb3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/activity18/catb4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/activity18/catb5.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/activity18/hashes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/extra01/GetOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/extra01/GetOneTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/extra01/Zodiac.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/extra01/ZodiacTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/extra02/ArrayListMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/extra02/ArrayListMethodsTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/extra02/LetsRide.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/extra02/LetsRideTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/extra03/PracticalNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/extra03/PracticalNumbersTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/extra04/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/extra04/JsonCars.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/extra04/JsonCarsTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/extra04/TODO.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/extra05/TODO.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/extra05/XMLCarTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/extra05/XMLCars.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/extra05/cars.xsd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/extra06/Generics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/extra06/GenericsTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/extra06/Holiday.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/extra06/HolidayTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/extra06/RegEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/extra06/RegExTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/extra06/TODO.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/extra07/ChatClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/extra07/ChatClientTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/extra08/Invoice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/extra08/InvoiceManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/extra08/InvoiceManagerTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/extra08/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/extra08/TODO.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/extra08/browse-h2-db.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/extra08/database.mv.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/extra08/database.trace.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/extra09/Board.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/extra09/Crocodile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/extra09/CrocodileGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/extra09/CrocodileGame.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/extra09/CrocodileTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/extra09/GameFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/extra09/GameTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/extra09/MoveStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/extra09/TODO.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/extra10/Log.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/extra10/LogTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/extra10/TODO.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/extra11/PersonMatcher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/extra11/PersonMatcherTests1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/extra11/TODO.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/extra12/JNIClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/extra12/JNIClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/extra12/JNIClassTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/extra12/TODO.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/testSuite/AllTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j.properties" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1XJ6l28vdb072Pl7nXdT1BXSaeL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.ConfigAndHelloTest1">
+    <configuration name="Hello" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jtm.activity02.Hello" />
+      <module name="JTM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jtm.activity02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConfigAndHelloTest1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JTM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jtm.activity02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="jtm.activity02" />
+      <option name="MAIN_CLASS_NAME" value="jtm.activity02.ConfigAndHelloTest1" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ConfigAndHelloTest1" />
+        <item itemvalue="Application.Hello" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9b13dff7-54f3-4fcf-a52d-ac33a314fb17" name="Default Changelist" comment="" />
+      <created>1580751997892</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580751997892</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
